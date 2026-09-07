@@ -10,7 +10,11 @@ Vorx Labs is powered entirely by a passionate team of next-generation developers
 
 ## Projects
 
-![](https://githubcard.com/vorxlabs/vorxengine.svg?d=23T0C4SfpqoZ)
+<div align="center">
+  <a href="github.com/VorxLabs/VorxEngine">
+    <img src="https://githubcard.com/vorxlabs/vorxengine.svg?d=CJD5JvUxugWF" alt="VorxEngine" width=300>
+  </a>
+</div>
 
 ## Contacts & Community
 * **Official Website:** [vorx.pro](https://vorx.pro)
