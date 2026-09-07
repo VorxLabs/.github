@@ -12,7 +12,7 @@ Vorx Labs is powered entirely by a passionate team of next-generation developers
 
 <div align="center">
   <a href="github.com/VorxLabs/VorxEngine">
-    <img src="https://githubcard.com/vorxlabs/vorxengine.svg?d=CJD5JvUxugWF" alt="VorxEngine" width=300>
+    <img src="https://githubcard.com/vorxlabs/vorxengine.svg?d=CJD5JvUxugWF" alt="VorxEngine" width=400>
   </a>
 </div>
 
